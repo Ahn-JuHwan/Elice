@@ -1,4 +1,4 @@
-package JAVA1.Lecture.MonDay;
+package JAVA1.Lecture.MonDay_JAVA;
 import java.util.Scanner;
 public class CurseFiltering {
     public static void main(String args[]) {
