@@ -1,4 +1,4 @@
-package elice;
+package JAVA1.SelfStudy.Tuesday.DataTypes;
 
 
 public class dataTypes1 {
