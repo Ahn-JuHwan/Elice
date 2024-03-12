@@ -5,32 +5,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4f700cb4-8953-4d65-956d-2c9513540507" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JAVA1/Lecture/MonDay/BreakAndContinue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JAVA1/Lecture/MonDay/CurseFiltering.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JAVA1/Lecture/MonDay/ReverseOutput.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JAVA1/Lecture/MonDay/TypeChange.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JAVA1/SelfStudy/Tuesday/DataTypes/BMICalculation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JAVA1/SelfStudy/Tuesday/DataTypes/DataTypes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JAVA1/SelfStudy/Tuesday/DataTypes/GetDifferentValues.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JAVA1/SelfStudy/Tuesday/DataTypes/IncreaseOperators.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JAVA1/SelfStudy/Tuesday/DataTypes/VarietyOperators.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JAVA1/SelfStudy/Tuesday/DataTypes/VolumeSphere.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JAVA1/SelfStudy/Tuesday/DataTypes/dataTypeConversion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JAVA1/SelfStudy/Tuesday/DataTypes/dataTypes2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JAVA1/SelfStudy/Tuesday/DataTypes/dataTypes3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JAVA1/SelfStudy/Tuesday/FlowControl/BuildingShootingStars.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JAVA1/SelfStudy/Tuesday/FlowControl/CalculatingGrades.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JAVA1/SelfStudy/Tuesday/FlowControl/Divisor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JAVA1/SelfStudy/Tuesday/FlowControl/MultiolicationTable2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JAVA1/SelfStudy/Tuesday/FlowControl/MultiplicationTable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JAVA1/SelfStudy/Tuesday/FlowControl/NumberOutput.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JAVA1/SelfStudy/Tuesday/FlowControl/PlusNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JAVA1/SelfStudy/Tuesday/FlowControl/Rocket.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JAVA1/SelfStudy/Tuesday/FlowControl/RunRate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JAVA1/SelfStudy/Tuesday/FlowControl/Scholarship.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JAVA1/Lecture/Wednesday_OOP/ManagingAccessControllers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JAVA1/Lecture/Wednesday_OOP/Overloading.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JAVA1/Lecture/Wednesday_OOP/RunningFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JAVA1/Lecture/Wednesday_OOP/RunningFactory2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JAVA1/SelfStudy/Thursday/Character.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JAVA1/SelfStudy/Thursday/Method1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JAVA1/SelfStudy/Thursday/Method2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JAVA1/SelfStudy/Thursday/Practice/Alphabet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JAVA1/SelfStudy/Thursday/Practice/OrderClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JAVA1/SelfStudy/Thursday/Practice/Return.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JAVA1/TEST/oneWeek/BookManagementSystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JAVA1/TEST/oneWeek/ContinuousNumberSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JAVA1/TEST/oneWeek/DivideArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JAVA1/TEST/oneWeek/Medium_HighValue.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dataTypes1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JAVA1/SelfStudy/Tuesday/DataTypes/dataTypes1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JAVA1/Lecture/MonDay/BreakAndContinue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JAVA1/Lecture/MonDay_JAVA/BreakAndContinue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JAVA1/Lecture/MonDay/CurseFiltering.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JAVA1/Lecture/MonDay_JAVA/CurseFiltering.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JAVA1/Lecture/MonDay/ReverseOutput.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JAVA1/Lecture/MonDay_JAVA/ReverseOutput.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JAVA1/Lecture/MonDay/TypeChange.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JAVA1/Lecture/MonDay_JAVA/TypeChange.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,21 +41,23 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="2dX8v5U6QtNGBwFcnt0u2ZpdFNB" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="Typecast" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Typecast" />
