@@ -5,32 +5,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4f700cb4-8953-4d65-956d-2c9513540507" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JAVA1/Lecture/MonDay/BreakAndContinue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JAVA1/Lecture/MonDay/CurseFiltering.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JAVA1/Lecture/MonDay/ReverseOutput.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JAVA1/Lecture/MonDay/TypeChange.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JAVA1/SelfStudy/Tuesday/DataTypes/BMICalculation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JAVA1/SelfStudy/Tuesday/DataTypes/DataTypes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JAVA1/SelfStudy/Tuesday/DataTypes/GetDifferentValues.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JAVA1/SelfStudy/Tuesday/DataTypes/IncreaseOperators.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JAVA1/SelfStudy/Tuesday/DataTypes/VarietyOperators.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JAVA1/SelfStudy/Tuesday/DataTypes/VolumeSphere.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JAVA1/SelfStudy/Tuesday/DataTypes/dataTypeConversion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JAVA1/SelfStudy/Tuesday/DataTypes/dataTypes2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JAVA1/SelfStudy/Tuesday/DataTypes/dataTypes3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JAVA1/SelfStudy/Tuesday/FlowControl/BuildingShootingStars.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JAVA1/SelfStudy/Tuesday/FlowControl/CalculatingGrades.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JAVA1/SelfStudy/Tuesday/FlowControl/Divisor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JAVA1/SelfStudy/Tuesday/FlowControl/MultiolicationTable2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JAVA1/SelfStudy/Tuesday/FlowControl/MultiplicationTable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JAVA1/SelfStudy/Tuesday/FlowControl/NumberOutput.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JAVA1/SelfStudy/Tuesday/FlowControl/PlusNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JAVA1/SelfStudy/Tuesday/FlowControl/Rocket.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JAVA1/SelfStudy/Tuesday/FlowControl/RunRate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JAVA1/SelfStudy/Tuesday/FlowControl/Scholarship.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JAVA1/SelfStudy/Tuesday/Array/ArrayLength.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JAVA1/SelfStudy/Tuesday/Array/ArrayToFor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JAVA1/SelfStudy/Tuesday/Array/Average.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JAVA1/SelfStudy/Tuesday/Array/ClassAverage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JAVA1/SelfStudy/Tuesday/Array/CreateArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JAVA1/SelfStudy/Tuesday/Array/FirstEvenNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JAVA1/SelfStudy/Tuesday/Array/ForEach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JAVA1/SelfStudy/Tuesday/Array/ScoreAverage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JAVA1/SelfStudy/Tuesday/Array/TwoDimensionalArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JAVA1/SelfStudy/Tuesday/Array/TwoDimensionalArrayFor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JAVA1/SelfStudy/Tuesday/Practice/Age.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JAVA1/SelfStudy/Tuesday/Practice/Average.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JAVA1/SelfStudy/Tuesday/Practice/CircleArea.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JAVA1/SelfStudy/Tuesday/Practice/Compare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JAVA1/SelfStudy/Tuesday/Practice/EscapeRoom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JAVA1/SelfStudy/Tuesday/Practice/IsolationAndWelfare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JAVA1/SelfStudy/Tuesday/Practice/LoansQualification.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JAVA1/SelfStudy/Tuesday/Practice/LoansQualification2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JAVA1/SelfStudy/Tuesday/Practice/PhysicalExamination.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dataTypes1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JAVA1/SelfStudy/Tuesday/DataTypes/dataTypes1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +42,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="2dX8v5U6QtNGBwFcnt0u2ZpdFNB" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
